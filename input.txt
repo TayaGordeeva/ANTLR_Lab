@@ -1,0 +1,8 @@
+A = 7x^5yz^2-10x+3
+Calculate A 1 1 1
+B = xy-9z-19
+Calculate B 1 2 -3
+C = 5
+C = A * C + B
+Print C
+Calculate C 1 0 0
